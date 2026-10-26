@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Malaysian Communications and Multimedia Commission (MCMC) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.mcmc.gov.my/en/home
+The Malaysian Communications and Multimedia Commission (MCMC) is the regulatory authority overseeing communications, multimedia, and broadcasting services in Malaysia. It administers licensing, spectrum allocation, consumer protection, and promotes digital transformation across the nation, providing public resources, reports, and guidance for industry stakeholders.
+
+**Areas:** Company · Government · Telecommunications · Regulation · Malaysia
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mcmc.gov.my/en/home)
+- [Sign up](https://www.mcmc.gov.my/legal/registers)
+- [Privacy policy](https://www.mcmc.gov.my/Privacy-Policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/malaysian-communications-and-multimedia-commission-mcmc/](https://apis.io/providers/malaysian-communications-and-multimedia-commission-mcmc/).
